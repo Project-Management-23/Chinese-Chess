@@ -3084,11 +3084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\MyChinesChess.csproj",
+      "projectUniqueName": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Github\\Chinese-Chess\\MyChinesChess\\MyChinesChess.csproj",
       "projectName": "MyChinesChess",
-      "projectPath": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\MyChinesChess.csproj",
+      "projectPath": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Github\\Chinese-Chess\\MyChinesChess\\MyChinesChess.csproj",
       "packagesPath": "C:\\Users\\Admins\\.nuget\\packages\\",
-      "outputPath": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\obj\\",
+      "outputPath": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Github\\Chinese-Chess\\MyChinesChess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admins\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3105,8 +3105,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\Libs\\Libs.csproj": {
-              "projectPath": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\Libs\\Libs.csproj"
+            "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Github\\Chinese-Chess\\Libs\\Libs.csproj": {
+              "projectPath": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Github\\Chinese-Chess\\Libs\\Libs.csproj"
             }
           }
         }

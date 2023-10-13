@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3U9smIE5Dv4KCLpEIJF53cJUfTk4r0pPOFYX2agjXu4cIdLAY8wYsoPcEuuO1JBKNNP6+ef1gFBnpXfQzhifuA==",
+  "dgSpecHash": "yXJeNM16l65AaVMgLu792IRmIwTZQPAeLmY6vbXeuDB1MNkes/A8WD3Gy/aJhas/dEa8WVnl+Vs+JiuClTXCdQ==",
   "success": true,
-  "projectFilePath": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\Libs\\Libs.csproj",
+  "projectFilePath": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Github\\Chinese-Chess\\Libs\\Libs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admins\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Admins\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

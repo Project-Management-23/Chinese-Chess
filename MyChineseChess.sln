@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyChinesChess", "MyChinesChess\MyChinesChess.csproj", "{971F5637-B658-4956-AC5A-C554FBE8013E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libs", "Libs\Libs.csproj", "{F9DA461C-3CBB-4E47-ABB2-223BC78DCF52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{971F5637-B658-4956-AC5A-C554FBE8013E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971F5637-B658-4956-AC5A-C554FBE8013E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971F5637-B658-4956-AC5A-C554FBE8013E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971F5637-B658-4956-AC5A-C554FBE8013E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9DA461C-3CBB-4E47-ABB2-223BC78DCF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DA461C-3CBB-4E47-ABB2-223BC78DCF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DA461C-3CBB-4E47-ABB2-223BC78DCF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DA461C-3CBB-4E47-ABB2-223BC78DCF52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE059F38-879B-4C09-9B55-FE444C736F88}
+	EndGlobalSection
+EndGlobal

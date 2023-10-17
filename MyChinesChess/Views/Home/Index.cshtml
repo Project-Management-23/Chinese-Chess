@@ -171,6 +171,24 @@
 
                     }
                 }
+                
+                //Sĩ
+                if ((this.id.indexOf("sido1") >= 0 || this.id.indexOf("sido2") >= 0) && app.player == true) {
+                    if ((Math.abs(app.indexStartI - app.indexStopI) == 1 && Math.abs(app.indexStartJ - app.indexStopJ) == 1)
+                        && (app.indexStopJ >= 3 && app.indexStopJ <= 5 && app.indexStopI >= 0 && app.indexStopI <= 2) &&
+                        app.hasChessNode(app.chessMatrix[app.indexStopI][app.indexStopJ].left, app.chessMatrix[app.indexStopI][app.indexStopJ].top, app.chessMatrix[app.indexStartI][app.indexStartJ].id) != 1) {
+
+                        flag = app.xuLyNuocDi(app.indexStopI, app.indexStartI, app.indexStopJ, app.indexStartJ, this.id);
+                    }
+                }
+                if ((this.id.indexOf("siden1") >= 0 || this.id.indexOf("siden2") >= 0) && app.player == false) {
+                    if ((Math.abs(app.indexStartI - app.indexStopI) == 1 && Math.abs(app.indexStartJ - app.indexStopJ) == 1)
+                        && (app.indexStopJ >= 3 && app.indexStopJ <= 5 && app.indexStopI >= 7 && app.indexStopI <= 9) &&
+                        app.hasChessNode(app.chessMatrix[app.indexStopI][app.indexStopJ].left, app.chessMatrix[app.indexStopI][app.indexStopJ].top, app.chessMatrix[app.indexStartI][app.indexStartJ].id) != 1) {
+
+                        flag = app.xuLyNuocDi(app.indexStopI, app.indexStartI, app.indexStopJ, app.indexStartJ, this.id);
+                    }
+                }
 
 
 

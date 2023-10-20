@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Github\\Chinese-Chess\\MyChinesChess\\MyChinesChess.csproj": {}
+    "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\MyChinesChess.csproj": {}
   },
   "projects": {
-    "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Github\\Chinese-Chess\\Libs\\Libs.csproj": {
+    "E:\\SchoolProject\\Project Management\\Chinese-Chess\\Libs\\Libs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Github\\Chinese-Chess\\Libs\\Libs.csproj",
+        "projectUniqueName": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\Libs\\Libs.csproj",
         "projectName": "Libs",
-        "projectPath": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Github\\Chinese-Chess\\Libs\\Libs.csproj",
-        "packagesPath": "C:\\Users\\Admins\\.nuget\\packages\\",
-        "outputPath": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Github\\Chinese-Chess\\Libs\\obj\\",
+        "projectPath": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\Libs\\Libs.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\Libs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,17 +81,17 @@
         }
       }
     },
-    "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Github\\Chinese-Chess\\MyChinesChess\\MyChinesChess.csproj": {
+    "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\MyChinesChess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Github\\Chinese-Chess\\MyChinesChess\\MyChinesChess.csproj",
+        "projectUniqueName": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\MyChinesChess.csproj",
         "projectName": "MyChinesChess",
-        "projectPath": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Github\\Chinese-Chess\\MyChinesChess\\MyChinesChess.csproj",
-        "packagesPath": "C:\\Users\\Admins\\.nuget\\packages\\",
-        "outputPath": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Github\\Chinese-Chess\\MyChinesChess\\obj\\",
+        "projectPath": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\MyChinesChess.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -105,8 +105,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Github\\Chinese-Chess\\Libs\\Libs.csproj": {
-                "projectPath": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Github\\Chinese-Chess\\Libs\\Libs.csproj"
+              "E:\\SchoolProject\\Project Management\\Chinese-Chess\\Libs\\Libs.csproj": {
+                "projectPath": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\Libs\\Libs.csproj"
               }
             }
           }
@@ -140,6 +140,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.9, )"
             }
           },
           "imports": [

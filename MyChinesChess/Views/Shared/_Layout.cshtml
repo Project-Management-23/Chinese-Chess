@@ -6,41 +6,67 @@
     <title>@ViewData["Title"] - BanCov1</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/BanCov1.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/home.css" asp-append-version="true" />
+
 </head>
-<body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">BanCov1</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+<body style="width: 1140px; margin-bottom: 0; position: relative">
+    <header style="position: absolute; z-index: 10000; width: 100%">
+        <nav class="navbar" style="justify-content: space-around;display: flex; padding: 0;">
+            <div style="text-align: center; color: #FFCE8D; font-size: 90px; font-family: Ledger; font-weight: 400; text-transform: uppercase; word-wrap: break-word">CỜ TƯỚNG</div>
+            
+            <div class="block_icon">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user-square-rounded" width="38" height="38" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                    <path d="M12 13a3 3 0 1 0 0 -6a3 3 0 0 0 0 6z"></path>
+                    <path d="M12 3c7.2 0 9 1.8 9 9s-1.8 9 -9 9s-9 -1.8 -9 -9s1.8 -9 9 -9z"></path>
+                    <path d="M6 20.05v-.05a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v.05"></path>
+                </svg>
+
+                <div class="layout_login">
+
+                    <ul class="navbar-nav flex-grow-1" style="width: 100px">
+                        <li class="nav_item">
+                            <a class="nav_link nav_login" asp-area="" asp-controller="Accounts" asp-action="Index">Login</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        <li class="nav_item">
+                            <a class="nav_link" asp-area="" asp-controller="Accounts" asp-action="SignUp">SignUp</a>
                         </li>
                     </ul>
+              
                 </div>
-            </div>
+
+
+               @*  <div class="layout_logout">
+
+                    <ul class="navbar-nav flex-grow-1" style="width: 100px">
+                        <li class="nav_item">
+                            <a class="nav_link nav_logout" asp-area="" asp-controller="Accounts" asp-action="Index">Logout</a>
+                        </li>
+                    </ul>
+
+                </div>
+ *@
+             </div>
+         
         </nav>
+     
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
+
+    <div class="container" style="position: absolute; z-index: 1000; margin: auto; left: 0; right: 0; height: 100%;">
+        <main role="main" style="position: relative; margin: auto;">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    @* <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2023 - BanCov1 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
-    </footer>
+    </footer> *@
+
+    <img style="width:100%; height: 100%" src="~/Images/background.jpg" />
+
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

@@ -1,391 +1,399 @@
 {
   "Files": [
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyChinesChess.bundle.scp.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyChinesChess.bundle.scp.css",
       "PackagePath": "staticwebassets\\MyChinesChess.bundle.scp.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\bancoVIP.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\background.jpg",
+      "PackagePath": "staticwebassets\\Images\\background.jpg"
+    },
+    {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\bancoVIP.svg",
       "PackagePath": "staticwebassets\\Images\\bancoVIP.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\maden1.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\maden1.svg",
       "PackagePath": "staticwebassets\\Images\\maden1.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\maden2.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\maden2.svg",
       "PackagePath": "staticwebassets\\Images\\maden2.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\mado1.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\mado1.svg",
       "PackagePath": "staticwebassets\\Images\\mado1.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\mado2.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\mado2.svg",
       "PackagePath": "staticwebassets\\Images\\mado2.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\phaoden1.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\phaoden1.svg",
       "PackagePath": "staticwebassets\\Images\\phaoden1.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\phaoden2.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\phaoden2.svg",
       "PackagePath": "staticwebassets\\Images\\phaoden2.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\phaodo1.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\phaodo1.svg",
       "PackagePath": "staticwebassets\\Images\\phaodo1.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\phaodo2.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\phaodo2.svg",
       "PackagePath": "staticwebassets\\Images\\phaodo2.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\siden1.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\siden1.svg",
       "PackagePath": "staticwebassets\\Images\\siden1.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\siden2.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\siden2.svg",
       "PackagePath": "staticwebassets\\Images\\siden2.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\sido1.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\sido1.svg",
       "PackagePath": "staticwebassets\\Images\\sido1.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\sido2.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\sido2.svg",
       "PackagePath": "staticwebassets\\Images\\sido2.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totden1.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totden1.svg",
       "PackagePath": "staticwebassets\\Images\\totden1.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totden2.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totden2.svg",
       "PackagePath": "staticwebassets\\Images\\totden2.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totden3.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totden3.svg",
       "PackagePath": "staticwebassets\\Images\\totden3.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totden4.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totden4.svg",
       "PackagePath": "staticwebassets\\Images\\totden4.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totden5.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totden5.svg",
       "PackagePath": "staticwebassets\\Images\\totden5.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totdo1.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totdo1.svg",
       "PackagePath": "staticwebassets\\Images\\totdo1.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totdo2.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totdo2.svg",
       "PackagePath": "staticwebassets\\Images\\totdo2.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totdo3.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totdo3.svg",
       "PackagePath": "staticwebassets\\Images\\totdo3.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totdo4.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totdo4.svg",
       "PackagePath": "staticwebassets\\Images\\totdo4.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totdo5.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\totdo5.svg",
       "PackagePath": "staticwebassets\\Images\\totdo5.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\tuong_den.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\tuong_den.svg",
       "PackagePath": "staticwebassets\\Images\\tuong_den.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\tuong_do.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\tuong_do.svg",
       "PackagePath": "staticwebassets\\Images\\tuong_do.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\tuongden1.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\tuongden1.svg",
       "PackagePath": "staticwebassets\\Images\\tuongden1.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\tuongden2.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\tuongden2.svg",
       "PackagePath": "staticwebassets\\Images\\tuongden2.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\tuongdo1.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\tuongdo1.svg",
       "PackagePath": "staticwebassets\\Images\\tuongdo1.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\tuongdo2.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\tuongdo2.svg",
       "PackagePath": "staticwebassets\\Images\\tuongdo2.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\xeden1.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\xeden1.svg",
       "PackagePath": "staticwebassets\\Images\\xeden1.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\xeden2.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\xeden2.svg",
       "PackagePath": "staticwebassets\\Images\\xeden2.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\xedo1.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\xedo1.svg",
       "PackagePath": "staticwebassets\\Images\\xedo1.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\xedo2.svg",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\Images\\xedo2.svg",
       "PackagePath": "staticwebassets\\Images\\xedo2.svg"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\css\\site.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\favicon.ico",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\js\\chat.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\js\\chat.js",
       "PackagePath": "staticwebassets\\js\\chat.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
       "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
       "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.min.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\js\\site.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "F:\\HK 1 23-24\\Quản lý dự án CNTT\\Đồ án\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

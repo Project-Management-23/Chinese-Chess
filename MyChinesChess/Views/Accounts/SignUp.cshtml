@@ -1,0 +1,156 @@
+﻿@{
+    Layout = null;
+}
+@*@{
+    ViewData["Title"] = "Đăng nhập cho bố mày";
+}
+<h1>@ViewData["Title"]</h1>
+*@
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 400px;
+            margin: 40px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 4px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+            .form-group label {
+                display: block;
+                font-weight: bold;
+                margin-bottom: 5px;
+            }
+
+            .form-group input {
+                width: 100%;
+                padding: 10px;
+                font-size: 16px;
+                border-radius: 4px;
+                border: 1px solid #ccc;
+            }
+
+            .form-group button {
+                background-color: #4CAF50;
+                color: #fff;
+                padding: 10px 20px;
+                font-size: 16px;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+                .form-group button:hover {
+                    background-color: #45a049;
+                }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Đăng nhập</h2>
+        <form id="loginForm">
+            <div class="form-group">
+                <label for="firstName">Họ:</label>
+                <input type="text" id="FirstName" name="FirstName" />
+            </div>
+            <div class="form-group">
+                <label for="lastName">Tên:</label>
+                <input type="text" id="LastName" name="LastName" />
+            </div>
+            <div class="form-group">
+                <label for="userName">Tên đăng nhập:</label>
+                <input type="text" id="UserName" name="UserName" />
+            </div>
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="Email" name="Email" />
+            </div>
+            <div class="form-group">
+                <label for="password">Mật khẩu:</label>
+                <input type="password" id="Password" name="Password" required>
+            </div>
+            <div class="form-group">
+                <button type="submit" id="registerButton">Đăng ký</button>
+            </div>
+            <div>
+                <button type="button" id="loginButton">Đăng nhập khi mày đã có tài khoản</button>
+            </div>
+        </form>
+    </div>
+    <script>
+        // Lấy các phần tử DOM
+        const loginButton = document.getElementById('loginButton');
+
+        // Xử lý sự kiện khi nhấn nút "Đăng ký"
+        loginButton.addEventListener('click', function () {
+            // Điều hướng đến trang đăng ký
+            window.location.href = 'https://localhost:7295/Accounts';
+        });
+    </script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            // Xử lý sự kiện khi người dùng nhấn nút "Đăng nhập"
+            $('#loginForm').submit(function (event) {
+                event.preventDefault();
+
+                // Lấy giá trị từ các trường nhập liệu
+                var firstName = $('#FirstName').val();
+                var lastName = $('#LastName').val();
+                var userName = $('#UserName').val();
+                var email = $('#Email').val();
+                var password = $('#Password').val();
+
+                // Gọi API đăng nhập
+                $.ajax({
+                    url: 'https://localhost:7295/api/SignUp/signupacc',
+                    method: 'POST',
+                    data: JSON.stringify({
+                        FirstName: firstName,
+                        LastName: lastName,
+                        UserName: userName,
+                        Email: email,
+                        Password: password
+                    }),
+                    contentType: 'application/json',
+                    success: function (response) {
+                        // Kiểm tra kết quả từ API
+                        if (response) {
+                            // Đăng ký thành công, thực hiện các hành động tiếp theo
+                            alert('Đăng ký thành công!');
+                            window.location.replace('https://localhost:7295/Accounts');
+                        } else {
+                            // Đăng ký thất bại, hiển thị thông báo lỗi
+                            alert('Đăng ký thất bại!');
+                        }
+                    },
+                    error: function () {
+                        // Xử lý lỗi nếu có
+                        alert('Đã xảy ra lỗi khi gọi API.');
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

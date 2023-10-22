@@ -1,11 +1,17 @@
-﻿"use strict";
+﻿
+var user = JSON.parse(localStorage.getItem('user'));
+console.log(user);
+
+
+"use strict";
 
 var connection = new signalR.HubConnectionBuilder().withUrl("/chatHub").build();
 
 //Disable the send button until connection is established.
 document.getElementById("sendButton").disabled = true;
 
-connection.on("ReceiveMessage", function (/*user,*/ message) {
+uservip = user.userName;
+connection.on("ReceiveMessage", function (uservip, message) {
     var li = document.createElement("li");
     document.getElementById("messagesList").appendChild(li);
     // We can assign user-supplied strings to an element's textContent because it
@@ -16,7 +22,7 @@ connection.on("ReceiveMessage", function (/*user,*/ message) {
     //${ user }
     li.innerHTML = `
      <div class="show_name"> 
-        <p style="margin: 0;">${message}</p>
+        <p style="margin: 0;">${uservip}</p>
     </div>
     <img src="https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/386515303_308790938456710_4456065279213934154_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Eh8xgvRigGMAX-m1uuI&_nc_ht=scontent.fsgn2-5.fna&oh=00_AfBiPIBaESp8xl6PDh0qQke2aofYzsDbqjNxATb--pTO2w&oe=65389DBE" class="image_avata" width="25" height="25" />  <p style="margin: 0;">${message}</p>`;
 });
@@ -45,7 +51,7 @@ function buttonSend() {
         return;
     } else {
         document.getElementById("messageInput").value = "";
-        connection.invoke("SendMessage", /*user,*/ message).catch(function (err) {
+        connection.invoke("SendMessage", uservip, message).catch(function (err) {
             return console.error(err.toString());
         });
         event.preventDefault();

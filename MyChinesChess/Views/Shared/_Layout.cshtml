@@ -22,7 +22,7 @@
                     <path d="M6 20.05v-.05a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v.05"></path>
                 </svg>
 
-                <div class="layout_login">
+                <div class="layout_login" id="layout_login_id">
 
                     <ul class="navbar-nav flex-grow-1" style="width: 100px">
                         <li class="nav_item">
@@ -36,16 +36,13 @@
                 </div>
 
 
-               @*  <div class="layout_logout">
-
+                <div class="layout_logout" id="logout_id">
                     <ul class="navbar-nav flex-grow-1" style="width: 100px">
                         <li class="nav_item">
-                            <a class="nav_link nav_logout" asp-area="" asp-controller="Accounts" asp-action="Index">Logout</a>
+                            <a class="nav_link" id="logoutButton">Đăng xuất</a>
                         </li>
                     </ul>
-
                 </div>
- *@
              </div>
          
         </nav>
@@ -57,12 +54,34 @@
             @RenderBody()
         </main>
     </div>
+    <script>
+     
+        var logins = document.getElementById("layout_login_id");
+        var logouts = document.getElementById("logout_id");
+        if (localStorage.key('token')) {
+            logins.style.display = "none";
+        } else {
+            logouts.style.display = "none"
+        }
 
-    @* <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - BanCov1 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer> *@
+          
+
+        document.addEventListener("DOMContentLoaded", function () {
+            // Xử lý sự kiện click cho nút "logoutButton"
+            var logoutButton = document.getElementById("logoutButton");
+            if (logoutButton) {
+                logoutButton.addEventListener("click", function () {
+                    // Xóa token khỏi localStorage
+                    localStorage.removeItem('token');
+                    localStorage.removeItem('user');
+
+                    // Chuyển hướng về trang đăng nhập
+                    window.location.href = "/Accounts";
+                });
+            }
+        });
+
+    </script>
 
     <img style="width:100%; height: 100%" src="~/Images/background.jpg" />
 
@@ -71,5 +90,7 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
+    <script src="~/js/chat.js"></script>
+    <script src="~/js/login.js"></script>
 </body>
 </html>

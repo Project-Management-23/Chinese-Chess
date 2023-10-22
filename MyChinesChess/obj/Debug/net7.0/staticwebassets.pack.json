@@ -173,6 +173,10 @@
       "PackagePath": "staticwebassets\\js\\chess.js"
     },
     {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
       "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
       "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js"
     },

@@ -38,6 +38,7 @@
 }
 
 .layout_login {
+    cursor: pointer;
     display: none;
     position: absolute;
     background-color: #f1dcad;
@@ -64,6 +65,7 @@
 }
 
 .layout_logout {
+    cursor: pointer;
     display: none;
     position: absolute;
     background-color: #f1dcad;

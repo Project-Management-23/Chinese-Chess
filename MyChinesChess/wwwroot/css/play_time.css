@@ -1,0 +1,44 @@
+﻿
+.play_time {
+    position: relative;
+    width: 100px;
+    height: 63px;
+    left: 84%;
+    top: 11px;
+    line-height: 37px;
+}
+
+.play_time_now {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 0;
+    padding: 8px 0 0 0;
+    border: 2px solid;
+    justify-content: space-evenly;
+    border-radius: 6px;
+}
+
+.hour {
+}
+
+.minute {
+}
+
+.second {
+
+}
+
+.title_item {
+    font-size: 24px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.title_item_other::after {
+    content: ":";
+    width: 2px;
+    height: 20px;
+    position: relative;
+    top: -1px;
+}

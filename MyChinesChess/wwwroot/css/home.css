@@ -1,0 +1,75 @@
+﻿.content {
+    position: absolute;
+    width: 100%;
+    top: 200px;                                                                        
+}
+
+
+.btn-style {
+    color: #333;
+    background-color: #FFCE8D;
+    border: 2px solid;
+    font-weight: 400;
+}
+
+    .btn-style:hover {
+        box-shadow: 63px 83px 69px rgba(0, 0, 0, 0.25) inset;
+    }
+
+.btn_title {
+    font-size: 22px;
+    font-family: Philosopher;
+    font-weight: 400;
+    text-transform: capitalize;
+    word-wrap: break-word;
+}
+
+
+.block_icon:hover .layout_login {
+    display: flex;
+}
+
+.block_icon:hover .layout_logout {
+    display: flex;
+}
+
+.block_icon {
+    position: relative;
+}
+
+.layout_login {
+    display: none;
+    position: absolute;
+    background-color: #f1dcad;
+    width: 100px;
+    height: 74px;
+    right: 0;
+    left: 0;
+    border-radius: 4%;
+}
+
+.nav_item:hover {
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+.nav_login {
+    border-bottom: 2px solid;
+}
+
+.nav_link {
+    display: block;
+    padding: 6px 0 6px 8px;
+    text-decoration: none;
+    color: #333;
+}
+
+.layout_logout {
+    display: none;
+    position: absolute;
+    background-color: #f1dcad;
+    width: 100px;
+    height: 36px;
+    right: 0;
+    left: 0;
+    border-radius: 4%;
+}

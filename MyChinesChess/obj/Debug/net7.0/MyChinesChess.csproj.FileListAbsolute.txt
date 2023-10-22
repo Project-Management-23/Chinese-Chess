@@ -1,0 +1,874 @@
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.csproj.AssemblyReference.cache
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.AssemblyInfoInputs.cache
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.AssemblyInfo.cs
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.csproj.CoreCompileInputs.cache
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.MvcApplicationPartsAssemblyInfo.cache
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.RazorAssemblyInfo.cache
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.RazorAssemblyInfo.cs
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\appsettings.json
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\appsettings.Development.json
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.staticwebassets.runtime.json
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.exe
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.deps.json
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.runtimeconfig.json
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.pdb
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Azure.Core.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Azure.Identity.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Humanizer.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.CodeDom.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Memory.Data.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Libs.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Libs.pdb
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets\msbuild.MyChinesChess.Microsoft.AspNetCore.StaticWebAssets.props
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets\msbuild.build.MyChinesChess.props
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyChinesChess.props
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyChinesChess.props
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets.pack.json
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets.build.json
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets.development.json
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\scopedcss\bundle\MyChinesChess.styles.css
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\scopedcss\projectbundle\MyChinesChess.bundle.scp.css
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.csproj.CopyComplete
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\refint\MyChinesChess.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.pdb
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.genruntimeconfig.cache
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\ref\MyChinesChess.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\appsettings.Development.json
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\appsettings.json
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.staticwebassets.runtime.json
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.exe
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.deps.json
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.runtimeconfig.json
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.pdb
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Azure.Core.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Azure.Identity.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Humanizer.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.CodeDom.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Memory.Data.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Libs.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Libs.pdb
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.csproj.AssemblyReference.cache
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.GeneratedMSBuildEditorConfig.editorconfig
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.AssemblyInfoInputs.cache
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.AssemblyInfo.cs
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.csproj.CoreCompileInputs.cache
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.MvcApplicationPartsAssemblyInfo.cache
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.RazorAssemblyInfo.cache
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.RazorAssemblyInfo.cs
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets\msbuild.MyChinesChess.Microsoft.AspNetCore.StaticWebAssets.props
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets\msbuild.build.MyChinesChess.props
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyChinesChess.props
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyChinesChess.props
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets.pack.json
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets.build.json
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets.development.json
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\scopedcss\bundle\MyChinesChess.styles.css
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\scopedcss\projectbundle\MyChinesChess.bundle.scp.css
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.csproj.CopyComplete
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\refint\MyChinesChess.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.pdb
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.genruntimeconfig.cache
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\ref\MyChinesChess.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Build.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Common.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.csproj.AssemblyReference.cache
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.AssemblyInfoInputs.cache
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.AssemblyInfo.cs
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.csproj.CoreCompileInputs.cache
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.RazorAssemblyInfo.cache
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.RazorAssemblyInfo.cs
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\refint\MyChinesChess.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.pdb
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\appsettings.json
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.staticwebassets.runtime.json
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.exe
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.deps.json
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.runtimeconfig.json
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.pdb
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Humanizer.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Libs.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Libs.pdb
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets\msbuild.MyChinesChess.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets\msbuild.build.MyChinesChess.props
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyChinesChess.props
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyChinesChess.props
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\scopedcss\bundle\MyChinesChess.styles.css
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\scopedcss\projectbundle\MyChinesChess.bundle.scp.css
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.csproj.CopyComplete
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.genruntimeconfig.cache
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\ref\MyChinesChess.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\appsettings.json
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.staticwebassets.runtime.json
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.exe
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.deps.json
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.runtimeconfig.json
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\MyChinesChess.pdb
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Humanizer.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Libs.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\bin\Debug\net7.0\Libs.pdb
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.csproj.AssemblyReference.cache
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.AssemblyInfoInputs.cache
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.AssemblyInfo.cs
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.csproj.CoreCompileInputs.cache
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.RazorAssemblyInfo.cache
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.RazorAssemblyInfo.cs
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets\msbuild.MyChinesChess.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets\msbuild.build.MyChinesChess.props
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyChinesChess.props
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyChinesChess.props
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\scopedcss\bundle\MyChinesChess.styles.css
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\scopedcss\projectbundle\MyChinesChess.bundle.scp.css
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.csproj.CopyComplete
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\refint\MyChinesChess.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.pdb
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\MyChinesChess.genruntimeconfig.cache
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\MyChinesChess\obj\Debug\net7.0\ref\MyChinesChess.dll

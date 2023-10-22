@@ -1,0 +1,98 @@
+E:\Hutech\Tech\BanCov1\Libs\bin\Debug\net7.0\Libs.deps.json
+E:\Hutech\Tech\BanCov1\Libs\bin\Debug\net7.0\Libs.runtimeconfig.json
+E:\Hutech\Tech\BanCov1\Libs\bin\Debug\net7.0\Libs.dll
+E:\Hutech\Tech\BanCov1\Libs\bin\Debug\net7.0\Libs.pdb
+E:\Hutech\Tech\BanCov1\Libs\obj\Debug\net7.0\Libs.csproj.AssemblyReference.cache
+E:\Hutech\Tech\BanCov1\Libs\obj\Debug\net7.0\Libs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hutech\Tech\BanCov1\Libs\obj\Debug\net7.0\Libs.AssemblyInfoInputs.cache
+E:\Hutech\Tech\BanCov1\Libs\obj\Debug\net7.0\Libs.AssemblyInfo.cs
+E:\Hutech\Tech\BanCov1\Libs\obj\Debug\net7.0\Libs.csproj.CoreCompileInputs.cache
+E:\Hutech\Tech\BanCov1\Libs\obj\Debug\net7.0\Libs.dll
+E:\Hutech\Tech\BanCov1\Libs\obj\Debug\net7.0\refint\Libs.dll
+E:\Hutech\Tech\BanCov1\Libs\obj\Debug\net7.0\Libs.pdb
+E:\Hutech\Tech\BanCov1\Libs\obj\Debug\net7.0\Libs.genruntimeconfig.cache
+E:\Hutech\Tech\BanCov1\Libs\obj\Debug\net7.0\ref\Libs.dll
+C:\Users\Admins\Downloads\BanCov1\Libs\bin\Debug\net7.0\Libs.deps.json
+C:\Users\Admins\Downloads\BanCov1\Libs\bin\Debug\net7.0\Libs.runtimeconfig.json
+C:\Users\Admins\Downloads\BanCov1\Libs\bin\Debug\net7.0\Libs.dll
+C:\Users\Admins\Downloads\BanCov1\Libs\bin\Debug\net7.0\Libs.pdb
+C:\Users\Admins\Downloads\BanCov1\Libs\obj\Debug\net7.0\Libs.csproj.AssemblyReference.cache
+C:\Users\Admins\Downloads\BanCov1\Libs\obj\Debug\net7.0\Libs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admins\Downloads\BanCov1\Libs\obj\Debug\net7.0\Libs.AssemblyInfoInputs.cache
+C:\Users\Admins\Downloads\BanCov1\Libs\obj\Debug\net7.0\Libs.AssemblyInfo.cs
+C:\Users\Admins\Downloads\BanCov1\Libs\obj\Debug\net7.0\Libs.csproj.CoreCompileInputs.cache
+C:\Users\Admins\Downloads\BanCov1\Libs\obj\Debug\net7.0\Libs.dll
+C:\Users\Admins\Downloads\BanCov1\Libs\obj\Debug\net7.0\refint\Libs.dll
+C:\Users\Admins\Downloads\BanCov1\Libs\obj\Debug\net7.0\Libs.pdb
+C:\Users\Admins\Downloads\BanCov1\Libs\obj\Debug\net7.0\Libs.genruntimeconfig.cache
+C:\Users\Admins\Downloads\BanCov1\Libs\obj\Debug\net7.0\ref\Libs.dll
+D:\Downloads\Compressed_Data\BanCov1\Libs\bin\Debug\net7.0\Libs.deps.json
+D:\Downloads\Compressed_Data\BanCov1\Libs\bin\Debug\net7.0\Libs.runtimeconfig.json
+D:\Downloads\Compressed_Data\BanCov1\Libs\bin\Debug\net7.0\Libs.dll
+D:\Downloads\Compressed_Data\BanCov1\Libs\bin\Debug\net7.0\Libs.pdb
+D:\Downloads\Compressed_Data\BanCov1\Libs\obj\Debug\net7.0\Libs.csproj.AssemblyReference.cache
+D:\Downloads\Compressed_Data\BanCov1\Libs\obj\Debug\net7.0\Libs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Compressed_Data\BanCov1\Libs\obj\Debug\net7.0\Libs.AssemblyInfoInputs.cache
+D:\Downloads\Compressed_Data\BanCov1\Libs\obj\Debug\net7.0\Libs.AssemblyInfo.cs
+D:\Downloads\Compressed_Data\BanCov1\Libs\obj\Debug\net7.0\Libs.csproj.CoreCompileInputs.cache
+D:\Downloads\Compressed_Data\BanCov1\Libs\obj\Debug\net7.0\Libs.dll
+D:\Downloads\Compressed_Data\BanCov1\Libs\obj\Debug\net7.0\refint\Libs.dll
+D:\Downloads\Compressed_Data\BanCov1\Libs\obj\Debug\net7.0\Libs.pdb
+D:\Downloads\Compressed_Data\BanCov1\Libs\obj\Debug\net7.0\Libs.genruntimeconfig.cache
+D:\Downloads\Compressed_Data\BanCov1\Libs\obj\Debug\net7.0\ref\Libs.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.deps.json
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.runtimeconfig.json
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.pdb
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.csproj.AssemblyReference.cache
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.AssemblyInfoInputs.cache
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.AssemblyInfo.cs
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.csproj.CoreCompileInputs.cache
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\obj\Debug\net7.0\refint\Libs.dll
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.pdb
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.genruntimeconfig.cache
+F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\obj\Debug\net7.0\ref\Libs.dll
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.deps.json
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.runtimeconfig.json
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.dll
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.pdb
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.csproj.AssemblyReference.cache
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.GeneratedMSBuildEditorConfig.editorconfig
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.AssemblyInfoInputs.cache
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.AssemblyInfo.cs
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.csproj.CoreCompileInputs.cache
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.dll
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\refint\Libs.dll
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.pdb
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.genruntimeconfig.cache
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\ref\Libs.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.deps.json
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.runtimeconfig.json
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.pdb
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.csproj.AssemblyReference.cache
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.AssemblyInfoInputs.cache
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.AssemblyInfo.cs
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.csproj.CoreCompileInputs.cache
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\Libs\obj\Debug\net7.0\refint\Libs.dll
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.pdb
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.genruntimeconfig.cache
+C:\Users\HONGHA\Source\Repos\Chinese-Chess\Libs\obj\Debug\net7.0\ref\Libs.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.deps.json
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.runtimeconfig.json
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.pdb
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.csproj.AssemblyReference.cache
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.AssemblyInfoInputs.cache
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.AssemblyInfo.cs
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.csproj.CoreCompileInputs.cache
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\Libs\obj\Debug\net7.0\refint\Libs.dll
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.pdb
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.genruntimeconfig.cache
+C:\Users\HONGHA\Desktop\Chinese-Chess\Chinese-Chess\Libs\obj\Debug\net7.0\ref\Libs.dll

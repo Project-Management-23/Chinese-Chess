@@ -141,8 +141,20 @@
       "PackagePath": "staticwebassets\\Images\\xedo2.svg"
     },
     {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\css\\chat_hub.css",
+      "PackagePath": "staticwebassets\\css\\chat_hub.css"
+    },
+    {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\css\\chess.css",
+      "PackagePath": "staticwebassets\\css\\chess.css"
+    },
+    {
       "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\css\\home.css",
       "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\css\\play_time.css",
+      "PackagePath": "staticwebassets\\css\\play_time.css"
     },
     {
       "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\css\\site.css",
@@ -155,6 +167,10 @@
     {
       "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\js\\chat.js",
       "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\js\\chess.js",
+      "PackagePath": "staticwebassets\\js\\chess.js"
     },
     {
       "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
@@ -235,6 +251,22 @@
     {
       "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
     },
     {
       "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",

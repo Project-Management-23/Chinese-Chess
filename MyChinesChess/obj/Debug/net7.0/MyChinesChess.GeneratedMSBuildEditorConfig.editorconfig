@@ -16,16 +16,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\SchoolProject\Project Management\Chinese-Chess\MyChinesChess
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/SchoolProject/Project Management/Chinese-Chess/MyChinesChess/Views/GameMode/ChessBoard.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZU1vZGVcQ2hlc3NCb2FyZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/SchoolProject/Project Management/Chinese-Chess/MyChinesChess/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/SchoolProject/Project Management/Chinese-Chess/MyChinesChess/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SchoolProject/Project Management/Chinese-Chess/MyChinesChess/Views/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SchoolProject/Project Management/Chinese-Chess/MyChinesChess/Views/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SchoolProject/Project Management/Chinese-Chess/MyChinesChess/Views/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SchoolProject/Project Management/Chinese-Chess/MyChinesChess/Views/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SchoolProject/Project Management/Chinese-Chess/MyChinesChess/Views/Room/PlayRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbVxQbGF5Um9vbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/SchoolProject/Project Management/Chinese-Chess/MyChinesChess/Views/Shared/Error.cshtml]

@@ -54,3 +54,17 @@ F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\obj\Debug\ne
 F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.pdb
 F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.genruntimeconfig.cache
 F:\HK 1 23-24\Quản lý dự án CNTT\Đồ án\Chinese-Chess\Libs\obj\Debug\net7.0\ref\Libs.dll
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.deps.json
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.runtimeconfig.json
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.dll
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\bin\Debug\net7.0\Libs.pdb
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.csproj.AssemblyReference.cache
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.GeneratedMSBuildEditorConfig.editorconfig
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.AssemblyInfoInputs.cache
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.AssemblyInfo.cs
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.csproj.CoreCompileInputs.cache
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.dll
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\refint\Libs.dll
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.pdb
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\Libs.genruntimeconfig.cache
+E:\SchoolProject\Project Management\Chinese-Chess\Libs\obj\Debug\net7.0\ref\Libs.dll

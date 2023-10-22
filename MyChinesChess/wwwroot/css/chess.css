@@ -1,0 +1,97 @@
+﻿body {
+    margin: 0;
+    padding:0;
+}
+
+
+.containers {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 18px;
+}
+
+/*Chess*/
+.nav_style {
+    height: 56px;
+    border: 2px solid;
+    margin: 20px 20px 0 20px;
+    padding: 0;
+}
+
+.nav_avatar {
+    border: 2px solid;
+    border-radius: 50%;
+}
+
+.nav_name_heading {
+    margin: 0;
+}
+
+.nav_point_list {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 0;
+}
+
+.nav_point_item {
+    font-weight: 500;
+    font-size: calc(1.3rem + 0.6vw);
+    line-height: 1.2;
+}
+
+.nav_point_other {
+    margin-right: 6px;
+}
+
+
+.nav_icon {
+    padding: 4px;
+    border: 2px solid;
+    border-radius: 8px;
+    background-color: red;
+    cursor: pointer;
+}
+
+.chess_border {
+    border-left: 2px solid;
+    border-right: 2px solid;
+}
+
+.chessboard {
+    width: 850px;
+    height: 676px;
+    background-image: url("/Images/bancoVIP.svg");
+    position: absolute;
+    right: 35%;
+    top: 65px;
+}
+
+.chessnode {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+}
+
+.chessimgnode {
+    width: 50px;
+    height: 50px;
+}
+
+.footer_style {
+    height: 56px;
+    border: 2px solid;
+    margin: 0 20px 20px 20px;
+    padding: 0;
+}
+
+/*ChatHub*/
+
+.chat_border {
+    border-right: 2px solid;
+}
+
+

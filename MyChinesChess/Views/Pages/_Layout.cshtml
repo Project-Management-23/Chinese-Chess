@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - AppName</title>
+
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+        <link rel="stylesheet" href="~/css/chess.css"/>
+        <link rel="stylesheet" href="~/css/chat.css" />
+
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+    </environment>
+</head>
+<body>
+    <nav class="navbar nav_style">
+        <div class="containers">
+            <div class="nav_avatar">
+                <img width="42" height="42" src="/Images/maden1.svg" />
+            </div>
+            <div class="nav_name">
+                <h3 class="nav_name_heading">Nguyễn Việt Đức</h3>
+            </div>
+            <div class="nav_point">
+                <ul class="nav_point_list">
+                    <li class="nav_point_item nav_point_other">Điểm: </li>
+                    <li class="nav_point_item">100</li>
+                </ul>
+            </div>
+
+            <div class="nav_point">
+                <ul class="nav_point_list">
+                    <li class="nav_point_item nav_point_other">Số trận thắng: </li>
+                    <li class="nav_point_item">100</li>
+                </ul>
+            </div>
+
+            <div class="nav_point">
+                <ul class="nav_point_list">
+                    <li class="nav_point_item nav_point_other">Số trận thua: </li>
+                    <li class="nav_point_item">100</li>
+                </ul>
+            </div>
+            <div class="nav_icon">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-door-exit" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                    <path d="M13 12v.01"></path>
+                    <path d="M3 21h18"></path>
+                    <path d="M5 21v-16a2 2 0 0 1 2 -2h7.5m2.5 10.5v7.5"></path>
+                    <path d="M14 7h7m-3 -3l3 3l-3 3"></path>
+                </svg>
+            </div>
+        </div>
+    </nav>
+    <div class="main" style="height: 676px;">
+        @RenderBody()
+    </div>
+
+    <footer class="navbar footer_style">
+        <div class="containers">
+            <div class="nav_avatar">
+                <img width="42" height="42" src="/Images/maden1.svg" />
+            </div>
+            <div class="nav_name">
+                <h3 class="nav_name_heading">Nguyễn Việt Đức</h3>
+            </div>
+            <div class="nav_point">
+                <ul class="nav_point_list">
+                    <li class="nav_point_item nav_point_other">Điểm: </li>
+                    <li class="nav_point_item">100</li>
+                </ul>
+            </div>
+
+            <div class="nav_point">
+                <ul class="nav_point_list">
+                    <li class="nav_point_item nav_point_other">Số trận thắng: </li>
+                    <li class="nav_point_item">100</li>
+                </ul>
+            </div>
+
+            <div class="nav_point">
+                <ul class="nav_point_list">
+                    <li class="nav_point_item nav_point_other">Số trận thua: </li>
+                    <li class="nav_point_item">100</li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js"
+                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous"
+                integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js"
+                asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+                crossorigin="anonymous"
+                integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+        </script>
+        <script src="~/js/site.min.js" asp-append-version="true"></script>
+    </environment>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

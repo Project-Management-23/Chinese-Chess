@@ -2,8 +2,8 @@
 	{"id": "xedo1", "src":"Images/xedo1.svg", "top":40, "left":181, "visible": "inline"},
 	{"id": "xedo2", "src":"Images/xedo2.svg", "top":40, "left":669, "visible": "inline"},
 	
-	{"id": "ma1", "src":"Images/mado1.svg", "top":40, "left":242, "visible": "inline"},
-	{"id": "ma2", "src":"Images/mado1.svg", "top":40, "left":608, "visible": "inline"},
+	{"id": "mado1", "src":"Images/mado1.svg", "top":40, "left":242, "visible": "inline"},
+	{"id": "mado2", "src":"Images/mado1.svg", "top":40, "left":608, "visible": "inline"},
 	
 	{"id": "tuongdo1", "src":"Images/tuongdo1.svg", "top":40, "left":303, "visible": "inline"},
 	{"id": "tuongdo2", "src":"Images/tuongdo2.svg", "top":40, "left":547, "visible": "inline"},
@@ -11,7 +11,7 @@
 	{"id": "sido1", "src":"Images/sido1.svg", "top":40, "left":364, "visible": "inline"},	
 	{"id": "sido2", "src":"Images/sido1.svg", "top":40, "left":486, "visible": "inline"},
 	
-	{"id": "chutuongdo", "src":"Images/tuong_do.svg", "top":40, "left":425, "visible": "inline"},
+	{"id": "chutuongdo", "src":"Images/chutuongdo.svg", "top":40, "left":425, "visible": "inline"},
 
 	{"id": "phaodo1", "src":"Images/phaodo1.svg", "top":162, "left":242, "visible": "inline"},
 	{"id": "phaodo2", "src":"Images/phaodo2.svg", "top":162, "left":608, "visible": "inline"},
@@ -43,6 +43,6 @@
 	{"id": "siden1", "src":"Images/siden1.svg", "top":589, "left":364, "visible": "inline"},
 	{"id": "siden2", "src":"Images/siden2.svg", "top":589, "left":486, "visible": "inline"},
 	
-	{"id": "chutuongden", "src":"Images/tuong_den.svg", "top":589, "left":425, "visible": "inline"}
+	{"id": "chutuongden", "src":"Images/chutuongden.svg", "top":589, "left":425, "visible": "inline"}
 	
 ]

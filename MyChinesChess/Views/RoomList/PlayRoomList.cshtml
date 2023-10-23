@@ -1,0 +1,94 @@
+﻿
+@{
+    ViewData["Title"] = "PlayRoomList";
+    Layout = null;
+}
+<link rel="stylesheet" href="~/css/room_list.css"/> 
+@* <body>
+    <div class="container" id="app">
+        <div style="margin: 22px 0 28px 0;display: flex; justify-content: center;">
+            <h1 style="margin: 0;">Danh sách phòng chơi</h1>
+        </div>
+        <div v-for="item in rooms" class="card mb-3 room_list">
+            <div class="row g-0 room_list_image">
+                <div class="col-md-4 image_item">
+                    <img src="~/images/bancoVIP.svg" width="300" height="300" classs="img-fluid rounded-start" alt="ảnh phòng">
+                </div>
+                <div class="col-md-8 room_list_content">
+                    <div class="card-body">
+                        <h4 class="card-title">Mã phòng: 123456</h4>
+                        <h5 class="card-title">Tên chủ phòng: abc</h5>
+                        <p class="card-text">Phòng chơi cờ tướng mọi người vui vẻ</p>
+                        <div class="btn_join">
+                            <button type="button" class="btn btn_color_yelow" style="width: 100px;padding: 8px 0 8px 0;">
+                                <p class="btn_content">Tham gia</p>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                <div class="row g-3 align-items-center">
+                         <h2>Tạo phòng</h2>
+            <div class="col-auto">
+                <label for="txtName" class="col-form-label">Tên phòng</label>
+            </div>
+            <div class="col-auto">
+                   <input type="text" class="form-control"  id="txtName">
+            </div>
+            <div class="col-auto">
+                <button type="submit" class="btn btn-outline-primary" v-on:click="createRoom">Tạo</button>
+            </div>
+</div>
+        
+    </div>
+</body> *@
+
+
+
+<div id="app">
+    <div class="row g-3 align-items-center">
+        <h2>Tạo phòng</h2>
+        <div class="col-auto">
+            <label for="txtName" class="col-form-label">Tên phòng</label>
+        </div>
+        <div class="col-auto">
+            <input type="text" class="form-control" id="txtName">
+        </div>
+        <div class="col-auto">
+            <button type="submit" class="btn btn-outline-primary" v-on:click="createRoom">Tạo</button>
+        </div>
+    </div>
+
+    <div style="height: 3rem;"></div>
+    <div class="row g-3 align-items-center">
+        <h2>Danh sách phòng</h2>
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="col">
+                <div class="card text-dark bg-info">
+                    <div class="card-body">
+                        <h5 class="card-title">Tên phòng: Chơi với máy</h5>
+                        <p class="card-text">Mã phòng: Chơi với máy</p>
+                        <a class="btn btn-outline-dark" href="/Home/AutoChess">Tham gia</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col" v-for="r in rooms">
+                <div class="card text-dark bg-light">
+                    <div class="card-body">
+                        <h5 class="card-title">Tên phòng: {{ r.Name }}</h5>
+                        <p class="card-text">Mã phòng: {{ r.Id }}</p>
+                        <a class="btn btn-outline-danger" v-bind:href="'/Home/Chess?roomid='+ r.Id">Tham gia</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.0/axios.min.js"></script>
+<script src="~/js/room_list.js"></script>

@@ -1,10 +1,12 @@
 ﻿using MyWebChess.Hubs;
 using MyWebChess.Models;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.SignalR;
 using System.Text.Json;
+using Libs.Entity;
+using Libs.Services;
+using MyChinesChess.Models;
+using Libs;
 
 namespace MyWebChess.Controllers.api
 {
@@ -14,10 +16,13 @@ namespace MyWebChess.Controllers.api
     {
         private IWebHostEnvironment webHostEnvironment;
         private IHubContext<ChatHub> hubContext;
+        private readonly ChessService _chessService;
+        private ApplicationDbContext _dbContext;
 
         public ChessController(IWebHostEnvironment webHostEnvironment, IHubContext<ChatHub> hubContext ) {
             this.webHostEnvironment = webHostEnvironment;
             this.hubContext = hubContext;
+            _chessService = new ChessService(_dbContext);
         }
         [HttpGet]
         [Route("loadChessBoard")]
@@ -55,5 +60,9 @@ namespace MyWebChess.Controllers.api
             hubContext.Clients.All.SendAsync("ReceiveChessMove", JsonSerializer.Serialize(movenodeList));
             return Ok(new { status = true, message = "" });
         }
+
+       
+
+       
     }
 }

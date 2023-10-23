@@ -157,6 +157,10 @@
       "PackagePath": "staticwebassets\\css\\play_time.css"
     },
     {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\css\\room_list.css",
+      "PackagePath": "staticwebassets\\css\\room_list.css"
+    },
+    {
       "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -175,6 +179,10 @@
     {
       "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\js\\login.js",
       "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\js\\room_list.js",
+      "PackagePath": "staticwebassets\\js\\room_list.js"
     },
     {
       "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
@@ -431,6 +439,34 @@
     {
       "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery\\jquery-3.6.0.intellisense.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-3.6.0.intellisense.js"
+    },
+    {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery\\jquery-3.6.0.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-3.6.0.js"
+    },
+    {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery\\jquery-3.6.0.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-3.6.0.min.map"
+    },
+    {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery\\jquery-3.6.0.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-3.6.0.slim.js"
+    },
+    {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery\\jquery-3.6.0.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-3.6.0.slim.min.js"
+    },
+    {
+      "Id": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\wwwroot\\lib\\jquery\\jquery-3.6.0.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-3.6.0.slim.min.map"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MyChinesChess.Microsoft.AspNetCore.StaticWebAssets.props",

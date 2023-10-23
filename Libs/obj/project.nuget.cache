@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vVoLX9uMAjrCMV9/RamXPyWJk8aE18BmiNqEtQvTqC5RcPMRSELtk6MUqyZFIJ7LAOe0PjLRsoBwDSG33Wzn4Q==",
+  "dgSpecHash": "KWxy3FsiMrRdyzagGVBLT59gxEjmwwctoKVzLFN5Qw1SZaaHJkJsbOL87wE8zdmsMyYP5xhU+WXrnzzpAV2G6A==",
   "success": true,
   "projectFilePath": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\Libs\\Libs.csproj",
   "expectedPackageFiles": [
@@ -70,7 +70,7 @@
     "C:\\Users\\PC\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],

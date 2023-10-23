@@ -1,11 +1,7 @@
 ﻿@{
     Layout = null;
 }
-@*@{
-    ViewData["Title"] = "Đăng nhập cho bố mày";
-}
-<h1>@ViewData["Title"]</h1>
-*@
+
 <html>
 <head>
     <style>
@@ -68,7 +64,9 @@
 
 
     <div class="container">
-        <h2>Đăng nhập</h2>
+        <h1 style="text-align: center;">
+            <a href="/" style="color: #333; text-decoration: none;">Đăng nhập</a>
+        </h1>
         <form id="loginForm">
             <div class="form-group">
                 <label for="username">Tên đăng nhập:</label>
@@ -78,68 +76,18 @@
                 <label for="password">Mật khẩu:</label>
                 <input type="password" id="Password" name="Password" required>
             </div>
-            <div class="form-group">
+            <div class="form-group" style="display: flex; flex-direction: column;">
                 <button type="submit" id="loginButton">Đăng nhập</button>
             </div>
             <div>
-                <button type="button" id="registerButton">Đăng ký khi mày chưa có tài khoản</button>
+                <p class="login_dontHaveAcc" style="font-size: 22px; margin-bottom: 0; padding: 24px 52px 0px;">
+                    Bạn chưa có tài khoản?
+                    <a id="registerButton" style="color: #f05123; font-weight: 600; cursor: pointer">Đăng ký</a>
+                </p>
             </div>
         </form>
     </div>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="~/js/login.js"></script>
-    @*<script>
-        // Lấy các phần tử DOM
-        const loginForm = document.getElementById('loginForm');
-        const registerButton = document.getElementById('registerButton');
-
-        // Xử lý sự kiện khi nhấn nút "Đăng ký"
-        registerButton.addEventListener('click', function () {
-            // Điều hướng đến trang đăng ký
-            window.location.href = 'https://localhost:7100/Accounts/SignUp';
-        });
-    </script>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script>
-        $(document).ready(function () {
-            // Xử lý sự kiện khi người dùng nhấn nút "Đăng nhập"
-            $('#loginForm').submit(function (event) {
-                event.preventDefault();
-
-                // Lấy giá trị từ các trường nhập liệu
-                var username = $('#Username').val();
-                var password = $('#Password').val();
-
-                // Gọi API đăng nhập
-                $.ajax({
-                    url: 'https://localhost:7100/api/Login/loginacc',
-                    method: 'POST',
-                    data: JSON.stringify({
-                        Username: username,
-                        Password: password
-                    }),
-                    contentType: 'application/json',
-                    success: function (response) {
-                        // Kiểm tra kết quả từ API
-                        if (response.token) {
-                            // Đăng nhập thành công, thực hiện các hành động tiếp theo
-                            alert('Đăng nhập thành công!');
-                            // Lưu token vào localStorage hoặc cookie (tuỳ theo yêu cầu)
-                            // Ví dụ:
-                            localStorage.setItem('token', response.token);
-                            window.location.replace('https://localhost:7100/');
-                        } else {
-                            // Đăng nhập thất bại, hiển thị thông báo lỗi
-                            alert('Đăng nhập thất bại!');
-                        }
-                    },
-                    error: function () {
-                        // Xử lý lỗi nếu có
-                        alert('Đã xảy ra lỗi khi gọi API.');
-                    }
-                });
-            });
-        });
-    </script>*@
 </body>
 </html>

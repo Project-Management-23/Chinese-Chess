@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BGmCgTIRbNvOVn9xw5He0yPXDgdJTlK3fTJ1y4JRLYq0hJgWh1GDD4YImr0vUtIMkVoHwQNiDvV5LP3bnnzYkg==",
+  "dgSpecHash": "t6rInqdcAS1cNp5RakuUB9bCJy1+pRvOFOMngsh+RxHb2c0yPFnR6BqZMAe0MuwgBBvBxFly1nffAdUswRa/2w==",
   "success": true,
   "projectFilePath": "E:\\SchoolProject\\Project Management\\Chinese-Chess\\MyChinesChess\\MyChinesChess.csproj",
   "expectedPackageFiles": [
@@ -225,7 +225,7 @@
     "C:\\Users\\PC\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",

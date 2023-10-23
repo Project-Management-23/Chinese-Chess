@@ -1,11 +1,7 @@
 ﻿@{
     Layout = null;
 }
-@*@{
-    ViewData["Title"] = "Đăng nhập cho bố mày";
-}
-<h1>@ViewData["Title"]</h1>
-*@
+
 <html>
 <head>
     <style>
@@ -67,7 +63,7 @@
 </head>
 <body>
     <div class="container">
-        <h2>Đăng nhập</h2>
+        <h1 style="text-align: center;">Đăng ký</h1>
         <form id="loginForm">
             <div class="form-group">
                 <label for="firstName">Họ:</label>
@@ -89,11 +85,14 @@
                 <label for="password">Mật khẩu:</label>
                 <input type="password" id="Password" name="Password" required>
             </div>
-            <div class="form-group">
+            <div class="form-group" style="display: flex; flex-direction: column;">
                 <button type="submit" id="registerButton">Đăng ký</button>
             </div>
             <div>
-                <button type="button" id="loginButton">Đăng nhập khi mày đã có tài khoản</button>
+                <p class="login_dontHaveAcc" style="font-size: 22px; margin-bottom: 0; padding: 24px 36px 0px">
+                    Bạn đã có tài khoản?
+                    <a id="loginButton" style="color: #f05123; font-weight: 600; cursor: pointer">Đăng nhập</a>
+                </p>
             </div>
         </form>
     </div>

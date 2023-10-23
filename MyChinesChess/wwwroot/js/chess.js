@@ -181,13 +181,13 @@ var app = new Vue({
                 }
             }
             if (stopI < startI && stopJ == startJ) {
-                for (let i = startI + 1; i < startI; i++) {
+                for (let i = stopI + 1; i < startI; i++) {
                     if (matrix[i][stopJ].id)
                         check++;
                 }
             }
-            if (stopI == startI && stopJ < startJ) {
-                for (let i = stopJ + 1; i < stopJ; i++) {
+            if (stopI == startI && stopJ > startJ) {
+                for (let i = startJ + 1; i < stopJ; i++) {
                     if (matrix[startI][i].id)
                         check++;
                 }
@@ -313,10 +313,7 @@ var app = new Vue({
             if ((id.indexOf("xedo1") >= 0 || id.indexOf("xedo2") >= 0) ) {
                 if ((nodeStart.i == nodeEnd.i || nodeStart.j == nodeEnd.j) &&
                     this.kiemTraDuongThang(nodeEnd.i, nodeStart.i, nodeEnd.j, nodeStart.j) == 0 &&
-                    (nodeEnd.j >= 0 && nodeEnd.j <= 8 && nodeEnd.i >= 0 && nodeEnd.i <= 9) &&
-                    this.hasChessNode(matrix[nodeEnd.i][nodeEnd.j].left, 
-                        matrix[nodeEnd.i][nodeEnd.j].top, 
-                        matrix[nodeStart.i][nodeStart.j].id) != 1) {
+                    (nodeEnd.j >= 0 && nodeEnd.j <= 8 && nodeEnd.i >= 0 && nodeEnd.i <= 9)) {
 
                     flag = this.xuLyNuocDi(nodeEnd.i, nodeStart.i, nodeEnd.j, nodeStart.j, id);
                 }
@@ -324,22 +321,16 @@ var app = new Vue({
             if ((id.indexOf("xeden1") >= 0 || id.indexOf("xeden2") >= 0) ) {
                 if ((nodeStart.i == nodeEnd.i || nodeStart.j == nodeEnd.j) &&
                     this.kiemTraDuongThang(nodeEnd.i, nodeStart.i, nodeEnd.j, nodeStart.j) == 0 &&
-                    (nodeEnd.j >= 0 && nodeEnd.j <= 8 && nodeEnd.i >= 0 && nodeEnd.i <= 9) &&
-                    this.hasChessNode(matrix[nodeEnd.i][nodeEnd.j].left,
-                        matrix[nodeEnd.i][nodeEnd.j].top,
-                        matrix[nodeStart.i][nodeStart.j].id) != 1) {
-
+                    (nodeEnd.j >= 0 && nodeEnd.j <= 8 && nodeEnd.i >= 0 && nodeEnd.i <= 9)) {
+                    
                     flag = this.xuLyNuocDi(nodeEnd.i, nodeStart.i, nodeEnd.j, nodeStart.j, id);
                 }
             }
-
+            
             //Pháo
             if ((id.indexOf("phaodo1") >= 0 || id.indexOf("phaodo2") >= 0)) {
                 if ((nodeStart.i == nodeEnd.i || nodeStart.j == nodeEnd.j) &&
-                    (nodeEnd.j >= 0 && nodeEnd.j <= 8 && nodeEnd.i >= 0 && nodeEnd.i <= 9) &&
-                    this.hasChessNode(matrix[nodeEnd.i][nodeEnd.j].left, 
-                        matrix[nodeEnd.i][nodeEnd.j].top,
-                        matrix[nodeStart.i][nodeStart.j].id) != 1) {
+                    (nodeEnd.j >= 0 && nodeEnd.j <= 8 && nodeEnd.i >= 0 && nodeEnd.i <= 9)) {
 
                     if (this.kiemTraDuongThang(nodeEnd.i, nodeStart.i, nodeEnd.j, nodeStart.j) == 0 &&
                         this.hasChessNode(matrix[nodeEnd.i][nodeEnd.j].left,
@@ -355,10 +346,7 @@ var app = new Vue({
             }
             if ((id.indexOf("phaoden1") >= 0 || id.indexOf("phaoden2") >= 0)) {
                 if ((nodeStart.i == nodeEnd.i || nodeStart.j == nodeEnd.j) &&
-                    (nodeEnd.j >= 0 && nodeEnd.j <= 8 && nodeEnd.i >= 0 && nodeEnd.i <= 9) &&
-                    this.hasChessNode(matrix[nodeEnd.i][nodeEnd.j].left,
-                        matrix[nodeEnd.i][nodeEnd.j].top,
-                        matrix[nodeStart.i][nodeStart.j].id) != 1) {
+                    (nodeEnd.j >= 0 && nodeEnd.j <= 8 && nodeEnd.i >= 0 && nodeEnd.i <= 9)) {
 
                     if (this.kiemTraDuongThang(nodeEnd.i, nodeStart.i, nodeEnd.j, nodeStart.j) == 0 &&
                         this.hasChessNode(matrix[nodeEnd.i][nodeEnd.j].left,

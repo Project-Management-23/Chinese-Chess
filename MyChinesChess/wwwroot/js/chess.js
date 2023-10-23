@@ -10,9 +10,52 @@ var app = new Vue({
         nodeStartJ: -1,
         nodeEndI: -1,
         nodeEndJ: -1,
+        originalX: 181,
+        originalY: 40,
+        squares: 61
 
     },
     methods: {
+        initPrintMatrix() {
+            for (var i = 0; i <= 9; i++) {
+                var strMatrix = "";
+                for (var j = 0; j <= 8; j++) {
+                    strMatrix += '  ' + "(" + matrix[i][j].top + ',' + matrix[i][j].left + "-" + matrix[i][j].id + ")";
+                }
+            }
+        },
+        initPoint(left, top, chessNodeId) {
+            let temp = {};
+            temp.top = top;
+            temp.left = left;
+            temp.id = chessNodeId;
+            return temp;
+        },
+        getXValue(index) {
+            return this.originalX + (index * this.squares);
+        },
+        getYValue(index) {
+            return this.originalY + (index * this.squares);
+        },
+        initMatrix() {
+            for (var i = 0; i <= 9; i++) {
+                for (var j = 0; j <= 8; j++) {
+                    this.$set(matrix[i], j, this.initPoint(this.getXValue(j), this.getYValue(i), ""));
+                }
+            }
+
+        },
+        setChessNodeToMatrix(chessNode) {
+            this.nodeEndI = -1;
+            this.nodeEndJ = -1;
+
+            this.getIndex(chessNode.left, chessNode.top, "stop");
+            if (this.nodeEndI == -1 && this.nodeEndI == -1) {
+                return;
+            }
+            this.$set(matrix[this.nodeEndI][this.nodeEndJ], "id", chessNode.id);
+        },
+        
         getChessNode() {
             axios({
                 url: '/api/chess/loadChessBoard',
@@ -22,6 +65,11 @@ var app = new Vue({
             }).then((response) => {
                 this.chessNode = response.data.chessNode;
                 matrix = response.data.maxtrix;
+                this.initMatrix();
+                for (var i = 0; i < this.chessNode.length; i++) {
+                    this.setChessNodeToMatrix(this.chessNode[i]);
+                }
+                this.initPrintMatrix();
 
             });
         },
@@ -88,10 +136,8 @@ var app = new Vue({
             }
         },
         hasChessNode(left, top, id) {
-            this.nodeEndI = -1;
-            this.nodeEndJ = -1;
             this.getIndex(left, top, "stop");
-            var idPointStop = matrix[this.nodeEndI][this.nodeEndJ].id;
+            var idPointStop = (matrix[this.nodeEndI][this.nodeEndJ].id);
 
             if (idPointStop == "") {
                 return 0; /// khong co quan co nao tai vi tri nay
@@ -112,9 +158,21 @@ var app = new Vue({
             }
 
         },
-        sendMoveList(movelist) {
-            if (objRemove != null) {
-                movelist.push(objRemove);
+
+        anQuanCo(id,startI,startJ,stopI,stopJ) {
+            var objRemove = null;
+            if (id.indexOf("chutuongdo") >= 0) {
+                alert("Đen thắng");
+                isOver = true;
+            }
+            if (id.indexOf("chutuongden") >= 0) {
+                alert("Đỏ thắng")
+                isOver = true;
+            }
+            var para = [{ id: id, fromi: startI, fromj: startJ, toi: stopI, toj: stopJ }];
+            objRemove = { id: id };
+            if (objRemove != null){
+                para.push(objRemove);
             }
             axios({
                 url: '/api/chess/move-check-node',
@@ -124,21 +182,9 @@ var app = new Vue({
             }).then((response) => {
             });
         },
-        anQuanCo(id) {
-            if (id.indexOf("chutuongdo") >= 0) {
-                alert("Đen thắng");
-                isOver = true;
-            }
-            if (id.indexOf("chutuongden") >= 0) {
-                alert("Đỏ thắng")
-                isOver = true;
-            }
-            var movelist = [{ id: id, top: 999, left: 999, visible: false }];
-            this.sendMoveList(movelist);
-        },
         xuLyNuocDi(stopI, startI, stopJ, startJ, id) {
             if (this.hasChessNode(matrix[stopI][stopJ].left, matrix[stopI][stopJ].top, matrix[startI][startJ].id) == -1) {
-                this.anQuanCo(matrix[stopI][stopJ].id);
+                this.anQuanCo(matrix[stopI][stopJ].id,startI,startJ,stopI,stopJ);
             }
             var node = $("#" + id);
             node.css({ 'top': matrix[stopI][stopJ].top + 'px' });
@@ -424,6 +470,20 @@ var app = new Vue({
                     flag = app.xuLyNuocDi(nodeEnd.i, nodeStart.i, nodeEnd.j, nodeStart.j, id);
                 }
             }
+
+            var para = [{ id: id, fromi: nodeStart.i, fromj: nodeStart.j, toi: nodeEnd.i, toj: nodeEnd.j }];
+            if (objRemove != null){
+                para.push(objRemove);
+            }
+            axios({
+                url: '/api/chess/move-check-node',
+                method: 'Post',
+                responseType: 'Json',
+                data: para
+            }).then((response) => {
+
+
+            });
             
         }
     },

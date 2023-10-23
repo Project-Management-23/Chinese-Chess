@@ -16,13 +16,13 @@ namespace MyWebChess.Controllers.api
     {
         private IWebHostEnvironment webHostEnvironment;
         private IHubContext<ChatHub> hubContext;
-        private readonly ChessService _chessService;
-        private ApplicationDbContext _dbContext;
+        //private readonly ChessService _chessService;
+        //private ApplicationDbContext _dbContext;
 
         public ChessController(IWebHostEnvironment webHostEnvironment, IHubContext<ChatHub> hubContext ) {
             this.webHostEnvironment = webHostEnvironment;
             this.hubContext = hubContext;
-            _chessService = new ChessService(_dbContext);
+            //_chessService = new ChessService(_dbContext);
         }
         [HttpGet]
         [Route("loadChessBoard")]
@@ -60,9 +60,6 @@ namespace MyWebChess.Controllers.api
             hubContext.Clients.All.SendAsync("ReceiveChessMove", JsonSerializer.Serialize(movenodeList));
             return Ok(new { status = true, message = "" });
         }
-
-       
-
        
     }
 }

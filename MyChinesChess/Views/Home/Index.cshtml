@@ -18,7 +18,9 @@
             </div>
         </button>
         <button class="btn btn-style rounded-pill" type="button">
-            <div class="btn_title">Phòng</div>
+            <div class="btn_title">
+                @Html.ActionLink("Phòng", "PlayRoomList", "RoomList", null, new {@class = "link_title"})
+            </div>
         </button>
         <button class="btn btn-style rounded-pill" type="button">
             <div class="btn_title">Xếp Hạng</div>

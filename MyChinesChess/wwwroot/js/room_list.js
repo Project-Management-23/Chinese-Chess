@@ -9,9 +9,8 @@ var app = new Vue({
         getListRoom() {
             axios.get('/api/room/getroom')
                 .then(response => {
-                    if (response.data.message == "success") {
-                        this.rooms = response.data.data;
-                    }
+                    this.rooms = response.data.data;
+                  
                 }).catch(error => {
                     console.log(error);
                 }).finally();
@@ -34,4 +33,4 @@ var app = new Vue({
     mounted: function () {
         this.getListRoom();
     }
-})
+});
